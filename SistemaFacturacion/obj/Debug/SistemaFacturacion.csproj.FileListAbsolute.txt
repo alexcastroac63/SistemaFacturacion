@@ -1,0 +1,76 @@
+C:\Users\grpinf2017\Documents\Visual Studio 2013\Projects\SistemaFacturacion\SistemaFacturacion\bin\Debug\SistemaFacturacion.exe.config
+C:\Users\grpinf2017\Documents\Visual Studio 2013\Projects\SistemaFacturacion\SistemaFacturacion\bin\Debug\SistemaFacturacion.exe
+C:\Users\grpinf2017\Documents\Visual Studio 2013\Projects\SistemaFacturacion\SistemaFacturacion\bin\Debug\SistemaFacturacion.pdb
+C:\Users\grpinf2017\Documents\Visual Studio 2013\Projects\SistemaFacturacion\SistemaFacturacion\bin\Debug\DevComponents.DotNetBar.Design.dll
+C:\Users\grpinf2017\Documents\Visual Studio 2013\Projects\SistemaFacturacion\SistemaFacturacion\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\grpinf2017\Documents\Visual Studio 2013\Projects\SistemaFacturacion\SistemaFacturacion\bin\Debug\DevComponents.Instrumentation.Design.dll
+C:\Users\grpinf2017\Documents\Visual Studio 2013\Projects\SistemaFacturacion\SistemaFacturacion\bin\Debug\DevComponents.Instrumentation.dll
+C:\Users\grpinf2017\Documents\Visual Studio 2013\Projects\SistemaFacturacion\SistemaFacturacion\bin\Debug\Libreria.dll
+C:\Users\grpinf2017\Documents\Visual Studio 2013\Projects\SistemaFacturacion\SistemaFacturacion\obj\Debug\SistemaFacturacion.csprojResolveAssemblyReference.cache
+C:\Users\grpinf2017\Documents\Visual Studio 2013\Projects\SistemaFacturacion\SistemaFacturacion\obj\Debug\SistemaFacturacion.csproj.ResolveComReference.cache
+C:\Users\grpinf2017\Documents\Visual Studio 2013\Projects\SistemaFacturacion\SistemaFacturacion\obj\Debug\SistemaFacturacion.Mantenimientos.frmClasificaciones.resources
+C:\Users\grpinf2017\Documents\Visual Studio 2013\Projects\SistemaFacturacion\SistemaFacturacion\obj\Debug\SistemaFacturacion.Mantenimientos.frmExistencias.resources
+C:\Users\grpinf2017\Documents\Visual Studio 2013\Projects\SistemaFacturacion\SistemaFacturacion\obj\Debug\SistemaFacturacion.Mantenimientos.frmGeneralesInv.resources
+C:\Users\grpinf2017\Documents\Visual Studio 2013\Projects\SistemaFacturacion\SistemaFacturacion\obj\Debug\SistemaFacturacion.Mantenimientos.frmImpuesto.resources
+C:\Users\grpinf2017\Documents\Visual Studio 2013\Projects\SistemaFacturacion\SistemaFacturacion\obj\Debug\SistemaFacturacion.Mantenimientos.frmListadoProductos.resources
+C:\Users\grpinf2017\Documents\Visual Studio 2013\Projects\SistemaFacturacion\SistemaFacturacion\obj\Debug\SistemaFacturacion.Mantenimientos.frmListaPaquetes.resources
+C:\Users\grpinf2017\Documents\Visual Studio 2013\Projects\SistemaFacturacion\SistemaFacturacion\obj\Debug\SistemaFacturacion.Mantenimientos.frmListaProductos.resources
+C:\Users\grpinf2017\Documents\Visual Studio 2013\Projects\SistemaFacturacion\SistemaFacturacion\obj\Debug\SistemaFacturacion.Mantenimientos.frmPaquetesDetalle.resources
+C:\Users\grpinf2017\Documents\Visual Studio 2013\Projects\SistemaFacturacion\SistemaFacturacion\obj\Debug\SistemaFacturacion.Mantenimientos.frmProductos.resources
+C:\Users\grpinf2017\Documents\Visual Studio 2013\Projects\SistemaFacturacion\SistemaFacturacion\obj\Debug\SistemaFacturacion.Mantenimientos.frmTipoProducto.resources
+C:\Users\grpinf2017\Documents\Visual Studio 2013\Projects\SistemaFacturacion\SistemaFacturacion\obj\Debug\SistemaFacturacion.Mantenimientos.frmUnidadMedida.resources
+C:\Users\grpinf2017\Documents\Visual Studio 2013\Projects\SistemaFacturacion\SistemaFacturacion\obj\Debug\SistemaFacturacion.frmAcercaDe.resources
+C:\Users\grpinf2017\Documents\Visual Studio 2013\Projects\SistemaFacturacion\SistemaFacturacion\obj\Debug\SistemaFacturacion.frmPrincipal.resources
+C:\Users\grpinf2017\Documents\Visual Studio 2013\Projects\SistemaFacturacion\SistemaFacturacion\obj\Debug\SistemaFacturacion.Login.resources
+C:\Users\grpinf2017\Documents\Visual Studio 2013\Projects\SistemaFacturacion\SistemaFacturacion\obj\Debug\SistemaFacturacion.Properties.Resources.resources
+C:\Users\grpinf2017\Documents\Visual Studio 2013\Projects\SistemaFacturacion\SistemaFacturacion\obj\Debug\SistemaFacturacion.csproj.GenerateResource.Cache
+C:\Users\grpinf2017\Documents\Visual Studio 2013\Projects\SistemaFacturacion\SistemaFacturacion\obj\Debug\SistemaFacturacion.exe
+C:\Users\grpinf2017\Documents\Visual Studio 2013\Projects\SistemaFacturacion\SistemaFacturacion\obj\Debug\SistemaFacturacion.pdb
+C:\Users\grpinf2017\Documents\Visual Studio 2013-bak\Projects\SistemaFacturacion\SistemaFacturacion\bin\Debug\SistemaFacturacion.exe.config
+C:\Users\grpinf2017\Documents\Visual Studio 2013-bak\Projects\SistemaFacturacion\SistemaFacturacion\obj\Debug\SistemaFacturacion.csproj.ResolveComReference.cache
+C:\Users\grpinf2017\Documents\Visual Studio 2013-bak\Projects\SistemaFacturacion\SistemaFacturacion\obj\Debug\SistemaFacturacion.exe
+C:\Users\grpinf2017\Documents\Visual Studio 2013-bak\Projects\SistemaFacturacion\SistemaFacturacion\obj\Debug\SistemaFacturacion.pdb
+C:\Users\grpinf2017\Documents\Visual Studio 2013-bak\Projects\SistemaFacturacion\SistemaFacturacion\bin\Debug\SistemaFacturacion.exe
+C:\Users\grpinf2017\Documents\Visual Studio 2013-bak\Projects\SistemaFacturacion\SistemaFacturacion\bin\Debug\SistemaFacturacion.pdb
+C:\Users\grpinf2017\Documents\Visual Studio 2013-bak\Projects\SistemaFacturacion\SistemaFacturacion\obj\Debug\SistemaFacturacion.csprojResolveAssemblyReference.cache
+C:\Users\grpinf2017\Documents\Visual Studio 2013-bak\Projects\SistemaFacturacion\SistemaFacturacion\obj\Debug\SistemaFacturacion.Mantenimientos.frmClasificaciones.resources
+C:\Users\grpinf2017\Documents\Visual Studio 2013-bak\Projects\SistemaFacturacion\SistemaFacturacion\obj\Debug\SistemaFacturacion.Mantenimientos.frmExistencias.resources
+C:\Users\grpinf2017\Documents\Visual Studio 2013-bak\Projects\SistemaFacturacion\SistemaFacturacion\obj\Debug\SistemaFacturacion.Mantenimientos.frmGeneralesInv.resources
+C:\Users\grpinf2017\Documents\Visual Studio 2013-bak\Projects\SistemaFacturacion\SistemaFacturacion\obj\Debug\SistemaFacturacion.Mantenimientos.frmImpuesto.resources
+C:\Users\grpinf2017\Documents\Visual Studio 2013-bak\Projects\SistemaFacturacion\SistemaFacturacion\obj\Debug\SistemaFacturacion.Mantenimientos.frmListadoProductos.resources
+C:\Users\grpinf2017\Documents\Visual Studio 2013-bak\Projects\SistemaFacturacion\SistemaFacturacion\obj\Debug\SistemaFacturacion.Mantenimientos.frmListaPaquetes.resources
+C:\Users\grpinf2017\Documents\Visual Studio 2013-bak\Projects\SistemaFacturacion\SistemaFacturacion\obj\Debug\SistemaFacturacion.Mantenimientos.frmListaProductos.resources
+C:\Users\grpinf2017\Documents\Visual Studio 2013-bak\Projects\SistemaFacturacion\SistemaFacturacion\obj\Debug\SistemaFacturacion.Mantenimientos.frmPaquetesDetalle.resources
+C:\Users\grpinf2017\Documents\Visual Studio 2013-bak\Projects\SistemaFacturacion\SistemaFacturacion\obj\Debug\SistemaFacturacion.Mantenimientos.frmProductos.resources
+C:\Users\grpinf2017\Documents\Visual Studio 2013-bak\Projects\SistemaFacturacion\SistemaFacturacion\obj\Debug\SistemaFacturacion.Mantenimientos.frmTipoProducto.resources
+C:\Users\grpinf2017\Documents\Visual Studio 2013-bak\Projects\SistemaFacturacion\SistemaFacturacion\obj\Debug\SistemaFacturacion.Mantenimientos.frmUnidadMedida.resources
+C:\Users\grpinf2017\Documents\Visual Studio 2013-bak\Projects\SistemaFacturacion\SistemaFacturacion\obj\Debug\SistemaFacturacion.frmAcercaDe.resources
+C:\Users\grpinf2017\Documents\Visual Studio 2013-bak\Projects\SistemaFacturacion\SistemaFacturacion\obj\Debug\SistemaFacturacion.frmPrincipal.resources
+C:\Users\grpinf2017\Documents\Visual Studio 2013-bak\Projects\SistemaFacturacion\SistemaFacturacion\obj\Debug\SistemaFacturacion.Login.resources
+C:\Users\grpinf2017\Documents\Visual Studio 2013-bak\Projects\SistemaFacturacion\SistemaFacturacion\obj\Debug\SistemaFacturacion.Properties.Resources.resources
+C:\Users\grpinf2017\Documents\Visual Studio 2013-bak\Projects\SistemaFacturacion\SistemaFacturacion\obj\Debug\SistemaFacturacion.csproj.GenerateResource.Cache
+C:\Users\Desarrollo\Desktop\SistemaFacturacion\SistemaFacturacion\bin\Debug\SistemaFacturacion.exe.config
+C:\Users\Desarrollo\Desktop\SistemaFacturacion\SistemaFacturacion\obj\Debug\SistemaFacturacion.csproj.ResolveComReference.cache
+C:\Users\Desarrollo\Desktop\SistemaFacturacion\SistemaFacturacion\obj\Debug\SistemaFacturacion.exe
+C:\Users\Desarrollo\Desktop\SistemaFacturacion\SistemaFacturacion\obj\Debug\SistemaFacturacion.pdb
+C:\Users\Desarrollo\Desktop\SistemaFacturacion\SistemaFacturacion\bin\Debug\SistemaFacturacion.exe
+C:\Users\Desarrollo\Desktop\SistemaFacturacion\SistemaFacturacion\bin\Debug\SistemaFacturacion.pdb
+C:\Users\Desarrollo\Desktop\SistemaFacturacion\SistemaFacturacion\obj\Debug\SistemaFacturacion.csprojResolveAssemblyReference.cache
+C:\Users\Desarrollo\Desktop\SistemaFacturacion\SistemaFacturacion\obj\Debug\SistemaFacturacion.Mantenimientos.frmClasificaciones.resources
+C:\Users\Desarrollo\Desktop\SistemaFacturacion\SistemaFacturacion\obj\Debug\SistemaFacturacion.Mantenimientos.frmExistencias.resources
+C:\Users\Desarrollo\Desktop\SistemaFacturacion\SistemaFacturacion\obj\Debug\SistemaFacturacion.Mantenimientos.frmGeneralesInv.resources
+C:\Users\Desarrollo\Desktop\SistemaFacturacion\SistemaFacturacion\obj\Debug\SistemaFacturacion.Mantenimientos.frmImpuesto.resources
+C:\Users\Desarrollo\Desktop\SistemaFacturacion\SistemaFacturacion\obj\Debug\SistemaFacturacion.Mantenimientos.frmListadoProductos.resources
+C:\Users\Desarrollo\Desktop\SistemaFacturacion\SistemaFacturacion\obj\Debug\SistemaFacturacion.Mantenimientos.frmListaPaquetes.resources
+C:\Users\Desarrollo\Desktop\SistemaFacturacion\SistemaFacturacion\obj\Debug\SistemaFacturacion.Mantenimientos.frmListaProductos.resources
+C:\Users\Desarrollo\Desktop\SistemaFacturacion\SistemaFacturacion\obj\Debug\SistemaFacturacion.Mantenimientos.frmPaquetesDetalle.resources
+C:\Users\Desarrollo\Desktop\SistemaFacturacion\SistemaFacturacion\obj\Debug\SistemaFacturacion.Mantenimientos.frmProductos.resources
+C:\Users\Desarrollo\Desktop\SistemaFacturacion\SistemaFacturacion\obj\Debug\SistemaFacturacion.Mantenimientos.frmTipoProducto.resources
+C:\Users\Desarrollo\Desktop\SistemaFacturacion\SistemaFacturacion\obj\Debug\SistemaFacturacion.Mantenimientos.frmUnidadMedida.resources
+C:\Users\Desarrollo\Desktop\SistemaFacturacion\SistemaFacturacion\obj\Debug\SistemaFacturacion.frmAcercaDe.resources
+C:\Users\Desarrollo\Desktop\SistemaFacturacion\SistemaFacturacion\obj\Debug\SistemaFacturacion.frmPrincipal.resources
+C:\Users\Desarrollo\Desktop\SistemaFacturacion\SistemaFacturacion\obj\Debug\SistemaFacturacion.Login.resources
+C:\Users\Desarrollo\Desktop\SistemaFacturacion\SistemaFacturacion\obj\Debug\SistemaFacturacion.Properties.Resources.resources
+C:\Users\Desarrollo\Desktop\SistemaFacturacion\SistemaFacturacion\obj\Debug\SistemaFacturacion.csproj.GenerateResource.Cache
+C:\Users\Desarrollo\Desktop\SistemaFacturacion\SistemaFacturacion\obj\Debug\SistemaFacturacion.Mantenimientos.frmUsuarios.resources
+C:\Users\Desarrollo\Desktop\SistemaFacturacion\SistemaFacturacion\obj\Debug\SistemaFacturacion.Mantenimientos.frmPermisos.resources
